@@ -8,3 +8,8 @@ build
 dist 
 .next 
 .env
+node_modules 
+build 
+dist 
+.next 
+.env
